@@ -1,0 +1,50 @@
+{
+  "_from": "insanetransition@^1.0.1-1",
+  "_id": "insanetransition@1.0.1-2",
+  "_inBundle": false,
+  "_integrity": "sha512-U3ads0qmn/+ZXDSfLh/bF0UoN/8aUOw0+HhM+HE7u/iv9StICkm8Ye29SxpMxYMIflioGRmT22FRuwTvZObbLw==",
+  "_location": "/insanetransition",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "insanetransition@^1.0.1-1",
+    "name": "insanetransition",
+    "escapedName": "insanetransition",
+    "rawSpec": "^1.0.1-1",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.1-1"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/insanetransition/-/insanetransition-1.0.1-2.tgz",
+  "_shasum": "197d1d6047f5bc683838b3c3f77a3450fd75875b",
+  "_spec": "insanetransition@^1.0.1-1",
+  "_where": "C:\\Users\\pierr\\Desktop\\code\\azeaze",
+  "author": {
+    "name": "Pierre LEVEQUE"
+  },
+  "bugs": {
+    "url": "https://github.com/xGoldaxe/insaneTransition/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "the ultimate package for clean and efficient transition !",
+  "homepage": "https://github.com/xGoldaxe/insaneTransition#readme",
+  "keywords": [
+    "transition"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "insanetransition",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xGoldaxe/insaneTransition.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1-2"
+}

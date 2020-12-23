@@ -235,3 +235,8 @@
         transform: scale(0);
     }
 }
+
+.itrans--wrapper {
+    overflow: hidden;
+    position: relative;
+}
