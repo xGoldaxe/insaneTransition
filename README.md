@@ -44,4 +44,4 @@ Use the class below your transition entry point
 <div id="exampleWrapper" class="itrans--wrapper"></div>
 ```
 
-You must choose a width and height to your wrapper (or it wont work).
+You must chose a width and height to your wrapper (or it wont work).
