@@ -239,4 +239,6 @@
 .itrans--wrapper {
     overflow: hidden;
     position: relative;
+
+    display: none;
 }

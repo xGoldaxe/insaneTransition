@@ -36,7 +36,7 @@ animation.then(
 )
 ```
 
-# Where did I play the transition ?
+# Where do I play the transition ?
 The first argument represent the entry point of your transition, this is like a window where the transition will be played :  
 Use the class below for transition entry point
 
